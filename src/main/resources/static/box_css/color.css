@@ -1,0 +1,182 @@
+.c-wh{  /*白色*/
+	background-color: #FFFFFF;
+}
+
+.c-bla{ /*黑色*/
+	background-color: #000000;
+}
+
+.c-gra{ /*灰色*/
+	background-color: #77787b;
+}
+.c-gra1{ /*灰色1*/
+	background-color: #a1a3a6;
+}
+.c-gra2{ /*灰色2*/
+	background-color: #f0f0f0;
+}
+.c-gra3{ /*灰色2*/
+	background-color: #fffff9;
+}
+
+
+.c-yel{ /*黄色*/
+	background-color: #fcaf17;
+}
+.c-yel1{ /*黄色1*/
+	background-color: #ffc20e;
+}
+.c-yel2{ /*黄色2*/
+	background-color: #ffd400;
+}
+
+
+.c-org{ /*橙色*/
+	background-color: #f47920;
+}
+.c-org1{ /*橙色1*/
+	background-color: #f58220;
+}
+.c-org2{ /*橙色2*/
+	background-color: #faa755;
+}
+.c-org3{ /*橙色3*/
+	background-color: #ffd1a8 !important;
+}
+.c-org4{ /*橙色4*/
+	background-color: #ffe7bd;
+}
+.c-org5{ /*橙色5*/
+	background-color: #f98100;
+}
+
+.c-blu{ /*蓝色*/
+	background-color: #2468a2;
+}
+.c-blu1{ /*蓝色1*/
+	background-color: #009ad6;
+}
+.c-blu2{ /*蓝色2*/
+	background-color: #7bbfea;
+}
+.c-blu3{ /*蓝色3*/
+	background-color: #afd5dc;
+}
+
+
+.c-red{ /*红色*/
+	background-color: #aa363d;
+}
+.c-red1{ /*红色1*/
+	background-color: #ed1941;
+}
+.c-red2{ /*红色2*/
+	background-color: #f58f98;
+}
+
+
+.c-gre{ /*绿色*/
+	background-color: #005344;
+}
+.c-gre1{ /*绿色1*/
+	background-color: #45b97c;
+}
+.c-gre2{ /*绿色2*/
+	background-color: #84bf96;
+}
+
+
+
+/******************* [字体颜色] *************************/
+.t-wh{  /*白色*/
+	color: #FFFFFF;
+}
+
+.t-bla{ /*黑色*/
+	color: #000000;
+}
+
+.t-gra{ /*灰色*/
+	color: #77787b;
+}
+.t-gra1{ /*灰色1*/
+	color: #a1a3a6;
+}
+.t-gra2{ /*灰色2*/
+	color: #f0f0f0;
+}
+
+
+.t-yel{ /*黄色*/
+	color: #fcaf17;
+}
+.t-yel1{ /*黄色1*/
+	color: #ffc20e;
+}
+.t-yel2{ /*黄色2*/
+	color: #ffd400;
+}
+
+
+.t-org{ /*橙色*/
+	color: #f47920;
+}
+.t-org1{ /*橙色1*/
+	color: #f58220;
+}
+.t-org2{ /*橙色2*/
+	color: #faa755;
+}
+
+
+.t-blu{ /*蓝色*/
+	color: #2468a2;
+}
+.t-blu1{ /*蓝色1*/
+	color: #009ad6;
+}
+.t-blu2{ /*蓝色2*/
+	color: #7bbfea;
+}
+
+
+.t-red{ /*红色*/
+	color: #aa363d;
+}
+.t-red1{ /*红色1*/
+	color: #ed1941;
+}
+.t-red2{ /*红色2*/
+	color: #f58f98;
+}
+
+
+.t-gre{ /*绿色*/
+	color: #005344;
+}
+.t-gre1{ /*绿色1*/
+	color: #45b97c;
+}
+.t-gre2{ /*绿色2*/
+	color: #84bf96;
+}
+
+/******************* [边框颜色] *************************/
+.b-gra{/*灰色*/
+	border-color:#aeaeae;
+}
+.b-gra1{/*灰色1*/
+	border-color:#dcdbdb;
+}
+.b-gra2{/*灰色1*/
+	border-color:#e0e0e0;
+}
+.b-org{/*橙色*/
+	border-color:#f47920;
+}
+.b-org1{/*橙色1*/
+	border-color:#f58220;
+}
+.b-org2{/*橙色2*/
+	border-color:#faa755;
+}
